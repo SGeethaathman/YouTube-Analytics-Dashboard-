@@ -6,6 +6,11 @@ This project presents an interactive Global YouTube Statistics Dashboard that an
 
 **🎯 Objectives**
 
+* Analyze YouTube creator performance across different countries.
+* Identify top YouTubers by views, subscribers, uploads, and earnings.
+* Understand category-wise content dominance on YouTube.
+* Build an interactive and user-friendly dashboard for exploration.
+
 
 
 
