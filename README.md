@@ -1,1 +1,3 @@
-# YouTube-Analytics-Dashboard-
+YouTube Statistical Analytics Dashboard 
+
+Project Objective
